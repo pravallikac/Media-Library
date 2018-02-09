@@ -1,0 +1,15 @@
+.row{
+    display:inline-block;
+    width: 30%;
+    height: 250;
+ padding:2px;
+ padding-right: 10px;
+ margin-right: 0;
+ margin-left: 0;
+  
+    
+}
+*
+{
+    box-sizing: border-box;
+}

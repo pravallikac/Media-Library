@@ -1,0 +1,39 @@
+.User{
+    width:100%;
+    display: flex;
+}
+.Aside-full{
+    width:30%;
+}
+
+.right{
+width: 70%;
+display: flex;
+padding: 0px;
+font-size: 15px;
+}
+
+input{
+    border-radius: 4px;
+    margin: 2px;
+}
+@media screen and (max-width: 850px){
+.search{
+    max-width: 30%;
+    padding: 5px;
+    font-size:12px;
+}
+input{
+    max-width:500%;
+    
+    margin: 0px;
+}
+
+h4{
+    font-size: 17px;
+}
+.right{
+    padding: 10px;
+    font-size: 10px;
+}
+}

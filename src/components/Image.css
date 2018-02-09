@@ -1,0 +1,11 @@
+.Image{
+    
+    font-size: 10px bold;
+    text-align: center;
+    padding: 0px;
+    box-shadow: 6px 10px #f5eded;
+}
+.image{
+    margin-top: -10px;
+    border-radius: 50%;
+}
